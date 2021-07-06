@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import './components/Card'
+import Card from './components/Card';
 
 function App() {
   return (
     <div className="App">
-     <h1>Task Management Application</h1>
+      <h1>this is the header of the homepage</h1>
+      <Card/>
     </div>
   );
 }

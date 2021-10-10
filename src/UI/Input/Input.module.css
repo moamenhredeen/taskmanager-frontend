@@ -1,0 +1,24 @@
+
+.customInput{
+    background: var(--light-gray);
+    width: 100%;
+    padding: 15px 25px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.customInput:hover{
+    box-shadow: 0 0 0 0.25rem var(--primary-color-light);
+    background-color: var(--very-light-gray);
+}
+
+.customInput:focus{
+    olor: #212529;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem var(--primary-color);
+    background-color: var(--very-light-gray);
+}

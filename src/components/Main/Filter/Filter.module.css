@@ -1,0 +1,33 @@
+
+
+.container{
+    display: flex;
+    margin: 10px 0;
+}
+
+.filters{
+    width: 100%;
+    margin: 10px;
+    background-color: var(--secondary-color-50);
+    display: flex;
+}
+
+.filter{
+    background-color: var(--secondary-color);
+    padding: 15px 10px;
+    color: white;
+    font-size: 1.2rem;
+    margin: 0 0.4px;
+    cursor: pointer;
+}
+
+.actions{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.action:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}

@@ -1,0 +1,49 @@
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.navigationActions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action{
+    padding: 10px;
+    border-radius: 50%;
+    background: #FFDF6C;
+    margin: 0 5px;
+}
+
+.action:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+
+.searchInput{
+    height: 100%;
+    width: 75%;
+    margin:0 10px;
+}
+
+.addTaskBtn{
+    display: block;
+    background-color: var(--primary-color);
+    border: none;
+    outline: none;
+    padding: 7px;
+    border-radius: 10px;
+    margin: 0;
+    width: 75px;
+    text-align: center;
+}
+
+
+.addTaskBtn:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}

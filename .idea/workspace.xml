@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="670379cd-ba78-4d4a-b8c2-7d8fc3e0212c" name="Changes" comment="too many thing, forget to commit :)">
+      <change afterPath="$PROJECT_DIR$/.idea/taskmanager-frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Checkbox/Checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Checkbox/Checkbox.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/EditableSelect/Editable.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/EditableSelect/EditableSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/Input/Input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MultiSelect/MultiSelect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MultiSelect/MultiSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MultiSelect/assets/closeCircle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MultiSelect/assets/closeCircleDark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MultiSelect/assets/closeLine.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MultiSelect/assets/closeSquare.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UI/MultiSelect/assets/downArrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ActionSearch/ActionSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ActionSearch/ActionSearch.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ActivityBar/ActivityBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ActivityBar/ActivityBar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Filter/Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Filter/Filter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Task/Task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Task/Task.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/ToolBar/ToolBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/ToolBar/ToolBar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TestComponent/TestComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TestComponent/TestComponent.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TaskManager-Frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zEOYiOPmIRdvb99nzcj71ovQba" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/dev-tools/node-v14/bin/node" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/dev-tools/node-v14/bin/node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <package-manager value="yarn" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="670379cd-ba78-4d4a-b8c2-7d8fc3e0212c" name="Changes" comment="" />
+      <created>1633709831247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633709831247</updated>
+      <workItem from="1633709835211" duration="38000" />
+      <workItem from="1633709901374" duration="5135000" />
+      <workItem from="1633716967841" duration="2282000" />
+      <workItem from="1633735642988" duration="12082000" />
+      <workItem from="1633765858800" duration="5235000" />
+      <workItem from="1633785600105" duration="2758000" />
+      <workItem from="1633893543949" duration="874000" />
+      <workItem from="1633894941723" duration="2548000" />
+      <workItem from="1633897529792" duration="1904000" />
+      <workItem from="1633902520852" duration="2414000" />
+      <workItem from="1633904966190" duration="2308000" />
+      <workItem from="1633907588549" duration="231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="too many thing, forget to commit :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="too many thing, forget to commit :)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

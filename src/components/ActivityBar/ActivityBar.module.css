@@ -1,0 +1,23 @@
+.container{
+    background: #FFDF6C;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.action{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action:hover{
+    background: rgba(116, 100, 140, 0.5);
+}
